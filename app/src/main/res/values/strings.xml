@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WordleGame</string>
+    <string name="guess">Guess</string>
+    <string name="restrict_guess">Your Guess Please</string>
+    <string name="guess_1">Guess #1</string>
+    <string name="guess_1_check">Guess #1 Check</string>
+    <string name="textview">TextView</string>
+    <string name="blank4">XXXX</string>
+</resources>
