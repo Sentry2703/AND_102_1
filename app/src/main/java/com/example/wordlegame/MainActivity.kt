@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
 
         guessButton.setOnClickListener {
             val answer = editAnswer.text.toString().uppercase()
-            
+
             val view: View? = this.currentFocus
 
             if (view != null) {
